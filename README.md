@@ -42,3 +42,6 @@
 
 ![image](https://github.com/jaejae87/React_basic/assets/129706762/2f1c7487-1373-4b46-b49b-2923a52fdb0f)
 
+![image](https://github.com/jaejae87/React_basic/assets/129706762/be21bb3e-37db-4519-b6de-269702c0d955)
+
+
