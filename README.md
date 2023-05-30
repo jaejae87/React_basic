@@ -1,4 +1,4 @@
-# node.js 설치
+# 1.node.js 설치
 
 ![image](https://github.com/jaejae87/React_basic/assets/129706762/a1e06abe-a3d9-4561-97a1-2bf64366cb37)
 
@@ -11,3 +11,20 @@
 구동 환경이라는 뜻에서 '자바스크립트 런타임'이라고도 표현함
 한마디로 node.js는 또 하나의 자바스크립트 런타입임. 따라서 Node.js는 웹 브라우저 외에서도
 자바스크립트를 실행시켜줌
+
+
+![image](https://github.com/jaejae87/React_basic/assets/129706762/34e83dee-f756-4fb3-b1c4-f89ac65264ec)
+
+*.node .js가 제공하는 것이 npm(Node Package Manager)
+*mpn이란 node.js로 만들어진 필요한 모듛을 다운받고 관리해주는 역활, 다른 개발자가
+만들어준 유용한 node.js로 만들어진 툴을 가져다가 쓸 수 있게 한다.
+*nom을 이용하여 유용한 라이브러리, 프레임 워크를 다운 받아 사용할 예정
+
+# 2.폴더 생성 
+*프로젝트를 만들 폴더를 생성한다
+
+# 3.리액트에 필요한 패키지를 자동으로 설치해주는 명령어를 입력한다.
+  npx create-react-app 폴더명
+  dir
+  cd 폴더명
+  npm start
