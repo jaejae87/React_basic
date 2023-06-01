@@ -23,4 +23,6 @@
   
 ![image](https://github.com/jaejae87/React_basic/assets/129706762/ec29f2f3-fd4d-4290-ab64-fe4f3940c36a)
 
+# 함수를 밖으로 빼기
   
+![image](https://github.com/jaejae87/React_basic/assets/129706762/c60f0cdd-84ef-4905-b61c-0c56b134382f)
