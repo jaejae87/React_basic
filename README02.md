@@ -19,6 +19,8 @@
   
 ![image](https://github.com/jaejae87/React_basic/assets/129706762/f30b051c-cbe5-4a71-8cd5-451df3967de3)
 
-# 화살표 함수 만들기
+# 화살표 함수로 바꿈
   
 ![image](https://github.com/jaejae87/React_basic/assets/129706762/ec29f2f3-fd4d-4290-ab64-fe4f3940c36a)
+
+  
