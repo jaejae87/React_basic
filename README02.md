@@ -41,3 +41,6 @@
   # react에서는 변수가 바뀐다고 해서 리랜더링이 일어나지 않는다.
   # ==>해결책) 리랜더링이 일어나게 하려면 useState(react Hook)를 사용해야한다
   
+  ![image](https://github.com/jaejae87/React_basic/assets/129706762/7865c086-57ef-4284-96c8-223d330118e0)
+
+  
