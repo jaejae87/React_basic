@@ -3,3 +3,6 @@
 # form에서는 onClick대신 onSubmit 이벤트를 사용한다
 
 ![image](https://github.com/jaejae87/React_basic.md/assets/129706762/e5844197-3573-444d-9a15-034b4aedbfe4)
+
+![image](https://github.com/jaejae87/React_basic.md/assets/129706762/45a7bbaf-56b6-4e49-9ea5-308e7ba38110)
+
