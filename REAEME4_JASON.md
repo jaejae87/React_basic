@@ -12,6 +12,9 @@
 # db.json파일은 root에 만들어야한다.
 ![image](https://github.com/jaejae87/React_basic.md/assets/129706762/2039a66b-38ac-44b8-b90c-4756cc091807)
 
+#import 
+![image](https://github.com/jaejae87/React_basic.md/assets/129706762/ff92e877-f567-40e9-a8ed-ec9f8543dc85)
+
 # db.json 실행하기  
  ![image](https://github.com/jaejae87/React_basic.md/assets/129706762/556976ca-6827-4fdd-9bf4-4ce1835da6f7)
  
