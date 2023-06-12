@@ -19,5 +19,8 @@
  # 그래서 port를 변경해 주어야 한다.
    json-server --watch db.json --port 3004
 
-#  실행이 안되면
+#  실행이 안되면 아래를 적용한다.
  npx json-server --watch db.json --port 3004
+
+# 서버와 통신하기
+![image](https://github.com/jaejae87/React_basic.md/assets/129706762/fc359fdf-5612-4049-97ed-fea726b42f54)
