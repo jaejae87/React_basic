@@ -24,3 +24,4 @@
 
 # 서버와 통신하기
 ![image](https://github.com/jaejae87/React_basic.md/assets/129706762/fc359fdf-5612-4049-97ed-fea726b42f54)
+   npm i axios
